@@ -9,6 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Test edit through git hub
 Test edit through R Studio
+Test edit again through git hub
 
 ## Overview
 
